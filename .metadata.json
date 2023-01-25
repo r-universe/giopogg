@@ -1,5 +1,9 @@
 [
   {
+    "package": "jtdm",
+    "oncran": true
+  },
+  {
     "package": "webSDM",
     "oncran": true
   }

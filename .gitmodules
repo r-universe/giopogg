@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "jtdm"]
+	path = jtdm
+	url = https://github.com/giopogg/jtdm
+	shallow = true
+	registered = true
 [submodule "webSDM"]
 	path = webSDM
 	url = https://github.com/giopogg/websdm
