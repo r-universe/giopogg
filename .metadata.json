@@ -1,10 +1,10 @@
 [
   {
-    "package": "jtdm",
+    "package": "webSDM",
     "oncran": true
   },
   {
-    "package": "webSDM",
+    "package": "jtdm",
     "oncran": true
   }
 ]
